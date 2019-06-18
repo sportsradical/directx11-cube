@@ -1,0 +1,13 @@
+﻿  cameraclass.cpp
+  d3dclass.cpp
+  graphicsclass.cpp
+  inputclass.cpp
+  lightclass.cpp
+  lightshaderclass.cpp
+  main.cpp
+  modelclass.cpp
+  stdafx.cpp
+  systemclass.cpp
+  textureclass.cpp
+  Generating Code...
+  DirectX11Cube.vcxproj -> C:\Users\sports\Downloads\directx11-cube-master\directx11-cube-master\x64\Release\DirectX11Cube.exe
